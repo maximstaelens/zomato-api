@@ -82,10 +82,10 @@
       "rating": "3.6",
       "cuisine": "Malaysian, Desserts",
       "location": "Suria KLCC, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "Secret Recipe serves Malaysian halal desserts and breakfast food.",
+      "phone number": "03 216173736",
+      "opening hours": "Today  10am – 10pm",
+      "average cost": "MYR60 for two people (approx.)"
     },
     {
       "id": 9,
@@ -93,10 +93,10 @@
       "rating": "3.6",
       "cuisine": "Asian, European",
       "location": "Le Meridien, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "Gastro Sentral serves both Asian and European cuisine, it has a bar and is suitable for luxury dining.",
+      "phone number": "03 22637434",
+      "opening hours": "Today  11am – 12midnight",
+      "average cost": "MYR250 for two people (approx.)"
     },
     {
       "id": 10,
@@ -104,10 +104,10 @@
       "rating": "3.9",
       "cuisine": "Western",
       "location": "Mont Kiara, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "Hubba Hubba serves Western cuisine, it has a bar and is directed towards the nightlife scene.",
+      "phone number": "012 2050442",
+      "opening hours": "Today  11am – 12midnight",
+      "average cost": "MYR120 for two people (approx.)"
     },
     {
       "id": 11,
@@ -115,53 +115,54 @@
       "rating": "3.9",
       "cuisine": "Western",
       "location": "Bangsar Baru, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "Gridiron serves Western cuisine, it has a bar with live music. Perfect for nightlife.",
+      "phone number": "03 22014820",
+      "opening hours": "Today  4pm – 3am",
+      "average cost": "MYR100 for two people (approx.)"
     },
     {
       "id": 12,
+      "restaurant": "Barat",
       "rating": "3.7",
       "cuisine": "Mediterranean, Vegetarian",
       "location": "Bukit Pantai, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "Barat serves vegetarian food in a cozy setting. It has a bar an is suitable for nightlife.",
+      "phone number": "010 2882654",
+      "opening hours": "Today  11:30am – 2:30pm, 6:30pm – 11:30pm",
+      "average cost": "MYR70 for two people (approx.)"
     },
     {
       "id": 13,
-      "restaurant": "Barat",
+      "restaurant": "PS150",
       "rating": "4.2",
       "cuisine": "Western, Finger Food",
       "location": "City Center, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "PS150 is a high rated bar that serves finger food for hungry party goers. Table booking recommended.",
+      "phone number": "03 20222888",
+      "opening hours": "Today  6pm – 2am",
+      "average cost": "MYR70 for two people (approx.)"
     },
     {
       "id": 14,
-      "restaurant": "PS150",
+      "restaurant": "Claret - The Troika",
       "rating": "3.5",
       "cuisine": "Western, Drinks",
       "location": "The Troika, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "The Troika exclusivly serves drinks, it is a high-end bar located in the City Center by the KLCC. ",
+      "phone number": "03 21620886",
+      "opening hours": "Today  4pm – 1am",
+      "average cost": "MYR100 for two people (approx.)"
     },
     {
       "id": 15,
-      "restaurant": "Claret - The Troika",
+      "restaurant": "The Social",
       "rating": "4.0",
       "cuisine": "Western, Malaysian",
       "location": "Bangsar Baru, Kuala Lumpur",
-      "description": "some comment",
-      "phone number": "some comment",
-      "opening hours": "some comment",
-      "average cost": "MYR25 for two people (approx.)"
+      "description": "The Social serves both  Western and Malaysian food. A great place to meet new people.",
+      "phone number": "03 22822260",
+      "opening hours": "Today  12noon – 2am",
+      "average cost": "MYR160 for two people (approx.)"
     }
   ]
 }
