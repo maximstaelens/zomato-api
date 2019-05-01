@@ -1,68 +1,7 @@
 {
-  "restaurants": [{
-      "id": 1,
-      "restaurant": "Ploy"
-    },
-    {
-      "id": 2,
-      "restaurant": "D'Timer Cafe"
-    },
-    {
-      "id": 3,
-      "restaurant": "Brilliant Nasi Lemak House"
-    },
-    {
-      "id": 4,
-      "restaurant": "Gindaco"
-    },
-    {
-      "id": 5,
-      "restaurant": "Baba Low's 486"
-    },
-    {
-      "id": 6,
-      "restaurant": "Torii"
-    },
-    {
-      "id": 7,
-      "restaurant": "The Daily Grind"
-    },
-    {
-      "id": 8,
-      "restaurant": "Secret Recipe"
-    },
-    {
-      "id": 9,
-      "restaurant": "Gastro Sentral - Le Meridien"
-    },
-    {
-      "id": 10,
-      "restaurant": "Hubba Hubba"
-    },
-    {
-      "id": 11,
-      "restaurant": "Gridiron"
-    },
-    {
-      "id": 12,
-      "restaurant": "Barat"
-    },
-    {
-      "id": 13,
-      "restaurant": "PS150"
-    },
-    {
-      "id": 14,
-      "restaurant": "Claret - The Troika"
-    },
-    {
-      "id": 15,
-      "restaurant": "The Social"
-    }
-
-  ],
   "restaurant-info": [{
       "id": 1,
+      "restaurant": "Ploy",
       "rating": "3.8",
       "cuisine": "Asian, Japanese, Thai",
       "location": "Publika, Kuala Lumpur",
@@ -73,6 +12,7 @@
     },
     {
       "id": 2,
+      "restaurant": "D'Timer Cafe",
       "rating": "3.5",
       "cuisine": "Malaysian",
       "location": "Taman Sri Rampai, Kuala Lumpur",
@@ -83,6 +23,7 @@
     },
     {
       "id": 3,
+      "restaurant": "Brilliant Nasi Lemak House",
       "rating": "3.6",
       "cuisine": "Malaysian",
       "location": "Taman Usahawan, Kuala Lumpur",
@@ -93,6 +34,7 @@
     },
     {
       "id": 4,
+      "restaurant": "Gindaco",
       "rating": "3.8",
       "cuisine": "Japanese",
       "location": "Mid Valley Megamall, Kuala Lumpur",
@@ -103,6 +45,7 @@
     },
     {
       "id": 5,
+      "restaurant": "Baba Low's 486",
       "rating": "3.8",
       "cuisine": "Nyonya",
       "location": "Bukit Pantai, Kuala Lumpur",
@@ -113,6 +56,7 @@
     },
     {
       "id": 6,
+      "restaurant": "Torii",
       "rating": "3.7",
       "cuisine": "Japanese",
       "location": "Plaza Batai, Kuala Lumpur",
@@ -123,6 +67,7 @@
     },
     {
       "id": 7,
+      "restaurant": "The Daily Grind",
       "rating": "3.6",
       "cuisine": "Western, Burger",
       "location": "Off Jalan Ampang, Kuala Lumpur",
@@ -133,6 +78,7 @@
     },
     {
       "id": 8,
+      "restaurant": "Secret Recipe",
       "rating": "3.6",
       "cuisine": "Malaysian, Desserts",
       "location": "Suria KLCC, Kuala Lumpur",
@@ -143,6 +89,7 @@
     },
     {
       "id": 9,
+      "restaurant": "Gastro Sentral - Le Meridien",
       "rating": "3.6",
       "cuisine": "Asian, European",
       "location": "Le Meridien, Kuala Lumpur",
@@ -153,6 +100,7 @@
     },
     {
       "id": 10,
+      "restaurant": "Hubba Hubba",
       "rating": "3.9",
       "cuisine": "Western",
       "location": "Mont Kiara, Kuala Lumpur",
@@ -163,6 +111,7 @@
     },
     {
       "id": 11,
+      "restaurant": "Gridiron",
       "rating": "3.9",
       "cuisine": "Western",
       "location": "Bangsar Baru, Kuala Lumpur",
@@ -183,6 +132,7 @@
     },
     {
       "id": 13,
+      "restaurant": "Barat",
       "rating": "4.2",
       "cuisine": "Western, Finger Food",
       "location": "City Center, Kuala Lumpur",
@@ -193,6 +143,7 @@
     },
     {
       "id": 14,
+      "restaurant": "PS150",
       "rating": "3.5",
       "cuisine": "Western, Drinks",
       "location": "The Troika, Kuala Lumpur",
@@ -203,6 +154,7 @@
     },
     {
       "id": 15,
+      "restaurant": "Claret - The Troika",
       "rating": "4.0",
       "cuisine": "Western, Malaysian",
       "location": "Bangsar Baru, Kuala Lumpur",
