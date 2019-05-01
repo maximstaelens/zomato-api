@@ -2,6 +2,7 @@
   "restaurant-info": [{
       "id": 1,
       "restaurant": "Ploy",
+      "image": "https://imgur.com/6wjsgp9.jpg",
       "rating": "3.8",
       "cuisine": "Asian, Japanese, Thai",
       "location": "Publika, Kuala Lumpur",
@@ -13,6 +14,7 @@
     {
       "id": 2,
       "restaurant": "D'Timer Cafe",
+      "image": "https://imgur.com/c9sX3dd.jpg",
       "rating": "3.5",
       "cuisine": "Malaysian",
       "location": "Taman Sri Rampai, Kuala Lumpur",
@@ -24,6 +26,7 @@
     {
       "id": 3,
       "restaurant": "Brilliant Nasi Lemak House",
+      "image": "https://imgur.com/rdQT2DZ.jpg",
       "rating": "3.6",
       "cuisine": "Malaysian",
       "location": "Taman Usahawan, Kuala Lumpur",
@@ -35,6 +38,7 @@
     {
       "id": 4,
       "restaurant": "Gindaco",
+      "image": "https://imgur.com/el1iDcN.jpg",
       "rating": "3.8",
       "cuisine": "Japanese",
       "location": "Mid Valley Megamall, Kuala Lumpur",
@@ -46,6 +50,7 @@
     {
       "id": 5,
       "restaurant": "Baba Low's 486",
+      "image": "https://imgur.com/LYVGcDt.jpg",
       "rating": "3.8",
       "cuisine": "Nyonya",
       "location": "Bukit Pantai, Kuala Lumpur",
@@ -57,6 +62,7 @@
     {
       "id": 6,
       "restaurant": "Torii",
+      "image": "https://imgur.com/rHBI4El.jpg",
       "rating": "3.7",
       "cuisine": "Japanese",
       "location": "Plaza Batai, Kuala Lumpur",
@@ -68,6 +74,7 @@
     {
       "id": 7,
       "restaurant": "The Daily Grind",
+      "image": "https://imgur.com/b9Wt3cn.jpg",
       "rating": "3.6",
       "cuisine": "Western, Burger",
       "location": "Off Jalan Ampang, Kuala Lumpur",
@@ -79,6 +86,7 @@
     {
       "id": 8,
       "restaurant": "Secret Recipe",
+      "image": "https://imgur.com/qOsJktJ.jpg",
       "rating": "3.6",
       "cuisine": "Malaysian, Desserts",
       "location": "Suria KLCC, Kuala Lumpur",
@@ -90,6 +98,7 @@
     {
       "id": 9,
       "restaurant": "Gastro Sentral - Le Meridien",
+      "image": "https://imgur.com/iZeiBgS.jpg",
       "rating": "3.6",
       "cuisine": "Asian, European",
       "location": "Le Meridien, Kuala Lumpur",
@@ -101,6 +110,7 @@
     {
       "id": 10,
       "restaurant": "Hubba Hubba",
+      "image": "https://imgur.com/KaryROi.jpg",
       "rating": "3.9",
       "cuisine": "Western",
       "location": "Mont Kiara, Kuala Lumpur",
@@ -112,6 +122,7 @@
     {
       "id": 11,
       "restaurant": "Gridiron",
+      "image": "https://imgur.com/v8j9Zil.jpg",
       "rating": "3.9",
       "cuisine": "Western",
       "location": "Bangsar Baru, Kuala Lumpur",
@@ -123,6 +134,7 @@
     {
       "id": 12,
       "restaurant": "Barat",
+      "image": "https://imgur.com/dHy0IYo.jpg",
       "rating": "3.7",
       "cuisine": "Mediterranean, Vegetarian",
       "location": "Bukit Pantai, Kuala Lumpur",
@@ -134,10 +146,11 @@
     {
       "id": 13,
       "restaurant": "PS150",
+      "image": "https://imgur.com/hh0a3mR.jpg",
       "rating": "4.2",
       "cuisine": "Western, Finger Food",
       "location": "City Center, Kuala Lumpur",
-      "description": "PS150 is a high rated bar that serves finger food for hungry party goers. Table booking recommended.",
+      "description": "PS150 is a high rated bar that serves finger food for hungry party goers.",
       "phone number": "03 20222888",
       "opening hours": "Today  6pm – 2am",
       "average cost": "MYR70 for two people (approx.)"
@@ -145,6 +158,7 @@
     {
       "id": 14,
       "restaurant": "Claret - The Troika",
+      "image": "https://imgur.com/j0zvKuv.jpg",
       "rating": "3.5",
       "cuisine": "Western, Drinks",
       "location": "The Troika, Kuala Lumpur",
@@ -156,6 +170,7 @@
     {
       "id": 15,
       "restaurant": "The Social",
+      "image": "https://imgur.com/CdDKSJI.jpg",
       "rating": "4.0",
       "cuisine": "Western, Malaysian",
       "location": "Bangsar Baru, Kuala Lumpur",
